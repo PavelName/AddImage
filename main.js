@@ -49,3 +49,8 @@ if(!localStorage.getItem('name')) {
 myButton.onclick = function () {
   setUserName();
 }
+const myFunction = function (num1, nun2) {
+  let task = num1 * nun2;
+  return task;
+}
+console.log(myFunction( 3, 5));
