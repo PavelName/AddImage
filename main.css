@@ -1,0 +1,36 @@
+body {
+  background-color: gold;
+}
+.container {
+  margin: 0 auto;
+  width: 80%;
+  background-color: #fff;
+  padding: 1em;
+  border-radius: 1em;
+  box-shadow: 0 0 1em #000;
+  margin-bottom: 30px;
+}
+h1 {
+  text-align: center;
+}
+img {
+  text-align: center;
+}
+
+button {
+  width: 50%;
+  margin: 0 auto;
+  display: block;
+  background-color: #000;
+  color: #fff;
+  padding: 1em;
+  border-radius: 1em;
+  border: none;
+  font-size: 1.2em;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #000;
+}
