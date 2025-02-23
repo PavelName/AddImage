@@ -54,4 +54,5 @@ const myFunction = function (num1, nun2) {
   return task;
 }
 console.log(myFunction( 3, 5));
+console.log('master');
 // коментарий
