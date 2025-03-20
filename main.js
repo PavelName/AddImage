@@ -5,3 +5,4 @@ const logger = () => {
   console.log('Некоторые необходимые команды git');
 }
 logger ();
+console.log('Hello world!');
